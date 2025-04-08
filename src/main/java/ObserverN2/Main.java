@@ -14,11 +14,11 @@ public class Main {
         stockExchange.subscribe(agencyCaixa);
 
 
-        stockExchange.updateMarketStatus("📈 El mercado sube por buenas noticias económicas.");
-        stockExchange.updateMarketStatus("📉 El mercado cae debido a tensiones geopolíticas.");
+        stockExchange.updateMarketStatus("El mercado sube por buenas noticias económicas.");
+        stockExchange.updateMarketStatus("El mercado cae debido a tensiones geopolíticas.");
 
 
         stockExchange.unsubscribe(agencyBBVA);
-        stockExchange.updateMarketStatus("🔁 El mercado se estabiliza tras la apertura de Wall Street.");
+        stockExchange.updateMarketStatus("El mercado se estabiliza tras la apertura de Wall Street.");
     }
 }
