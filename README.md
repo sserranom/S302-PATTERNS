@@ -1,4 +1,4 @@
-# Diseño de Patrones de Diseño en Java
+# Patrones de Diseño
 
 Este proyecto contiene tres patrones de diseño implementados en Java: **Builder**, **Observer** y **Callback**. A continuación, se describe brevemente el propósito de cada uno de ellos y cómo ejecutarlos.
 
