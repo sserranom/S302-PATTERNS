@@ -40,7 +40,6 @@ El patrón **Callback** se utiliza para delegar el proceso de pago a diferentes 
 ### Instrucciones de Ejecución
 
 1. **Clonar el repositorio**:
-   ```bash
   git clone [[URL_DEL_REPOSITORIO](https://github.com/sserranom/S302-PATTERNS.git)]
 
 
