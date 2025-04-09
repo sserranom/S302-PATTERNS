@@ -40,7 +40,19 @@ El patrón **Callback** se utiliza para delegar el proceso de pago a diferentes 
 ### Instrucciones de Ejecución
 
 1. **Clonar el repositorio**:
-  git clone [https://github.com/sserranom/S302-PATTERNS.git]
+git clone [https://github.com/sserranom/S302-PATTERNS.git]
+
+2. **Compilar y ejecutar los proyectos**:
+ Dependiendo del patrón, compila y ejecuta las clases correspondientes en cada módulo.
+javac *.java
+java Main
+
+3. **Salida esperada**:
+- Builder: Verás la salida del proceso de creación de una pizza.
+
+- Observer: Verás cómo las agencias reciben actualizaciones del mercado.
+
+- Callback: Verás el proceso de pago simulado con diferentes métodos de pago.
 
 
 
